@@ -1,0 +1,14 @@
+.gpt3__recognitionImage{
+    display: flex;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.gpt3__recognitionImage-image {
+    flex-direction: column;
+}
+
+.gpt3__recognitionImage-image img {
+    max-width: 300px;
+    max-height: 400px;
+}

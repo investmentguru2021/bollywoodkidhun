@@ -1,0 +1,26 @@
+.gpt3__marquee-component {
+    display: flex;
+    flex-direction: row;
+    height: 50px;    
+    
+}
+
+.gpt3__marquee-component-text {
+    font: var(--font-family);
+    color: aqua;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 25px;
+    margin: 0 1rem;
+    cursor: pointer;
+    margin-top: .5em;
+    
+}
+
+.gpt3__marquee-component-content{
+    display: flex;
+    flex-direction: row;
+    height: 50px;    
+    margin-left: auto;
+    
+}

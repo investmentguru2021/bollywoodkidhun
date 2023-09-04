@@ -1,0 +1,11 @@
+.gpt3-videorecognition {
+    display: flex;
+}
+
+.gpt3-videorecognition-content {
+    flex-direction: row;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+

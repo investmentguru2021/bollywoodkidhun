@@ -1,0 +1,16 @@
+.gpt3__upcomingevents {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+@media screen and (max-width : 550px) {
+    .gpt3__upcomingevents {
+        display: flex;
+        flex-direction: row;
+    }   
+}
+
+
+

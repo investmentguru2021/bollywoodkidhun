@@ -1,0 +1,46 @@
+.gpt3__socialfollow {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 0 0 0 2rem;
+}
+
+.gpt3__socialfollow h1{
+    font-size: 1em;
+}
+
+.gpt3__socialfollow-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+
+  a.social:hover {
+    transform: translateY(-8px);
+  }
+
+
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: violet;
+  }
+
+  
