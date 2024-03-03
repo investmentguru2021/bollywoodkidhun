@@ -1,6 +1,6 @@
 import React from 'react';
 import Event from './Event';
-import {Aug2022,Holi2022,Nov2022,independencedayWishes} from './imports';
+import {Aug2022,Holi2022,Nov2022,independencedayWishes, Oct2023} from './imports';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import './upcomingevent.css';
@@ -14,6 +14,20 @@ const AllEvents = () => {
       </div>
     </div>
     <Carousel useKeyboardArrows>
+    <div className="gpt3__event section__padding" id="home">
+        <div className="gpt3__event-content">
+       <h1 className="gradient__text">
+         We recently finished our event on the occasion of Diwali that was much appreciated by all the attendees </h1>
+        <p></p>
+        <p></p>
+        <p></p>
+      </div>
+
+    <div className="gpt3__event-image">
+          <img src={Oct2023} />
+        </div>
+      </div>
+
      <div className="gpt3__event section__padding" id="home">
         <div className="gpt3__event-content">
        <h1 className="gradient__text">We recently completed our event Retro Reels that was a huge success, with songs featuring from the golden era of the bollywood </h1>

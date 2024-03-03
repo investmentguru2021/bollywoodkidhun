@@ -14,8 +14,10 @@ import HappyFathersDay  from '../../assets/marquee/HappyFathersDay.jpg';
 import chandrayaan  from '../../assets/marquee/chandrayaan3.jpg';
 import aditya  from '../../assets/marquee/aditya1.jpg';
 import g20  from '../../assets/marquee/g202023.jpg';
-
+import worldcup2023  from '../../assets/marquee/worldcup2023.png';
+import happydiwali  from '../../assets/marquee/Happy-Diwali.png';
+import happyholidays from "../../assets/marquee/happy-holidays-2.jpg"
 
 export {
-    chandrayaan,aditya,g20
+    chandrayaan,aditya,g20,worldcup2023,happydiwali,happyholidays
 };
